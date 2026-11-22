@@ -144,6 +144,15 @@
   "img": "img/etsy-4595376647.jpg"
  },
  {
+  "kind": "etsy",
+  "id": "4595400896",
+  "name": "Family Birth Flower Bouquet",
+  "pitch": "One bouquet of your family's birth flowers, with their names.",
+  "section": "personal",
+  "url": "https://www.etsy.com/listing/4595400896",
+  "img": "img/etsy-4595400896.jpg"
+ },
+ {
   "kind": "amazon",
   "id": "B0H3KXKPWK",
   "name": "Dad's Favorite Memories",
@@ -151,6 +160,15 @@
   "section": "gift",
   "url": "https://www.amazon.com/dp/B0H3KXKPWK",
   "img": "img/book-B0H3KXKPWK.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H44L6ZFL",
+  "name": "Dad's Summer Memories",
+  "pitch": "A Father's Day journal for his stories, wisdom and favourite moments.",
+  "section": "gift",
+  "url": "https://www.amazon.com/dp/B0H44L6ZFL",
+  "img": "img/book-B0H44L6ZFL.jpg"
  },
  {
   "kind": "amazon",
@@ -238,8 +256,98 @@
   "id": "B0H69LB515",
   "name": "Forager's Recipe & Harvest Logbook",
   "pitch": "Every harvest, with its recipe.",
-  "section": "home",
+  "section": "field",
   "url": "https://www.amazon.com/dp/B0H69LB515",
   "img": "img/book-B0H69LB515.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H462NSH5",
+  "name": "Forager's Logbook",
+  "pitch": "Locations, sketches and seasonal notes for every find.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H462NSH5",
+  "img": "img/book-B0H462NSH5.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H624SJM4",
+  "name": "Forager's Seasonal Journal",
+  "pitch": "A year of finds, organized by season.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H624SJM4",
+  "img": "img/book-B0H624SJM4.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H3KQ9HG3",
+  "name": "Foraging Journal",
+  "pitch": "A simple logbook for wild edibles, herbs and plants.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H3KQ9HG3",
+  "img": "img/book-B0H3KQ9HG3.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H33CTFSJ",
+  "name": "Mushroom Hunting Log Book",
+  "pitch": "Where, when and what you found, with room to sketch.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H33CTFSJ",
+  "img": "img/book-B0H33CTFSJ.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H62JRQ7S",
+  "name": "Mushroom Hunting Journal, Large Print",
+  "pitch": "Big, clear pages for every outing.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H62JRQ7S",
+  "img": "img/book-B0H62JRQ7S.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H61Z77PQ",
+  "name": "Wild Berry & Fruit Log Book",
+  "pitch": "Where the berries grow and when they ripen.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H61Z77PQ",
+  "img": "img/book-B0H61Z77PQ.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H61T47ND",
+  "name": "Coastal & Seaweed Journal",
+  "pitch": "A shoreline record of every walk.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H61T47ND",
+  "img": "img/book-B0H61T47ND.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0H6324BQ4",
+  "name": "Wild Herb Foraging Journal",
+  "pitch": "A field record of the wild herbs you find.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0H6324BQ4",
+  "img": "img/book-B0H6324BQ4.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0HP7D5GD7",
+  "name": "Plant Field Notebook",
+  "pitch": "Leaf, flower and habitat notes for the plants you study.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0HP7D5GD7",
+  "img": "img/book-B0HP7D5GD7.jpg"
+ },
+ {
+  "kind": "amazon",
+  "id": "B0HP7CT4QS",
+  "name": "Wildcrafting & Tincture Journal",
+  "pitch": "Batch notes for every harvest and preparation.",
+  "section": "field",
+  "url": "https://www.amazon.com/dp/B0HP7CT4QS",
+  "img": "img/book-B0HP7CT4QS.jpg"
  }
 ]
